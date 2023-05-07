@@ -1,0 +1,18 @@
+A= Que salga mujer
+B= Le gusta los videojuegos
+Probabilidad empipica
+P(A)= 4/10 P(Ac)= 6/10
+P(B)= 9/10 P(Bc)= 1/10 
+P(A n B)= P(A)*P(B)
+  3/10 * 4/10 * 9/10
+  3/10 * 36/10
+  3/10 : 3.6/10
+P(A n B)= 3/10 
+
+A= Que sea varon
+B= Que sea mujer 
+ : Tiene novi@
+ : No tiene novi@
+
+P(A)= 17/31
+P(B)= 14/31
